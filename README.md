@@ -1,10 +1,9 @@
 # vorp-povs
 vorp yayıncıları ve serverda aktif oyuncu sayısı
 
+<img src="https://i.imgur.com/n1rZURb.png" alt="Awesome Badge"/>
+
 ## Kurulum
-
-
-
 #### adım 1: chrome://extensions sitesine girin (https://prnt.sc/fjvCBYtYG0cd)
 #### adım 2: geliştirici modu aktifleştirin (https://prnt.sc/TmNWPXyJaxwx)
 #### adım 3: paketlenmemiş öğe yükleye tıklayın (https://prnt.sc/NXsoAskcDnp2)
