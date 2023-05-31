@@ -1,5 +1,5 @@
-const twitchClientId = 'loyn0o9mugg1vn6fjtc5n7r7tpaorr'; // Twitch API istekleri için gerekli olan istemci kimliği
-const twitchSecretKey = 'nl5hmmb27rgn53ji51jwqtnfsrx4o5'; // Twitch API istekleri için gerekli olan gizli anahtar
+const twitchClientId = '9xkrcgbtqvp3m7xtmrreyo2h6jimlo'; // Twitch API istekleri için gerekli olan istemci kimliği
+const twitchSecretKey = 'uvo45lckz9efi36qzkjk1tx052hqtd'; // Twitch API istekleri için gerekli olan gizli anahtar
 
 const channels = ['grimnax', 'fjorgy', 'zade', 'pandorrina', 'aqelyy', 'nevillyn', 'zirgunn', 'neocastro', 'evoneeb', 'theteddyybear', 'imbusymom', 'gorkemguney_', 'teasy', 'desco', 'raufbaba25', 'chyrozen', 'nudgemania', 'carl4', 'solstaf1r', 'tengigabit', 'n1ach', 'th4oden', 'miuthy', 'lunaponcik', 'sinanovicanes', 'bfly0', 'eisthra', 'chysro', 'lordtoro', 'blackion_tv', 'toolerans', 'crusherftw', 'legatusleman', 'protutii', 'canko', 'kiymalidanonee', 'mulayimst', 'vudine', 'siryakup', 'heroglif', 'glopax', 'mosskauu', 'ttyqa', 'buanaz', 'oykeli', 'lyokob', 'denizcankap', 'smookie', 'timuty_', 'pizzavenk', 'p0aca', 'dylannis', 'frostyggwp', 'mikokondri', 'volentes', 'pesimistyle', 'liftof', 'grofsprit', 'kabrockie', 'efeberkss_', 'aysolita', 'tenexar', 'mrevorz', 'makeapoint', 'lasstshot', 'lmunchies', 'thxgod', 'nejlasude', 'videoyun']; // Takip edilecek yayıncılar
 
