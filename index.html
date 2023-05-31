@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="preload" href="main.css" as="style" />
+    <link rel="preload" href="main3.js" as="script" />
+    <link rel="preload" href="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js" as="script" />
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- font awesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <!-- ajax -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.1/jquery.min.js"></script>
+    <!-- tailland -->
+    <!-- <script src="https://cdn.tailwindcss.com"></script> -->
+    <!-- custom css -->
+    <link rel="stylesheet" href="main.css">
+    <title>Vorp Streams</title>
+    <script src="/main.js"></script>
+    <!-- <script src="/main2.js"></script> -->
+    <!-- <script src="/main3.js"></script> -->
+    <!-- <script src="/refresh.js"></script> -->
+</head>
+<body>
+    <div class="containe">
+        <div class="header">
+            <div class="players" id="oyuncuSayisi">Sunucudan bilgi alınamadı!</div>
+            <div class="players yayincilar" >Toplam "<span id="yayinci-sayisi"></span>" yayıncı aktif yayın yapıyor.</div>
+            <div class="info">
+                Vorp Yayıncıları
+                <!-- <img src="icon_32.png" class="icon"> -->
+            </div>
+        </div>
+        <div class="content">
+            <table class="">
+                <thead class="">
+                <tr>
+                <th scope="col" class="">YAYINCI</th>
+                <th scope="col" class="">YAYIN</th>
+                <th scope="col" class="">KATEGORİ</th>
+                <th scope="col" class="">İZLEYİCİ</th>
+                </tr>
+                </thead>
+                <tbody id="yenile"></tbody>
+                </table>
+        </div>
+    </div>
+    <div class="teory">^Teory^ tarafından geliştirildi.</div>
+</body>
+</html>
