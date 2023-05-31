@@ -9,5 +9,5 @@ vorp yayıncıları ve serverda aktif oyuncu sayısı
 #### adım 3: paketlenmemiş öğe yükleye tıklayın (https://prnt.sc/NXsoAskcDnp2)
 #### adım 4: açılan pencerede githubdan indirdiğiniz klasörü seçin (https://prnt.sc/Mtsm1_7Tp0Kq)
 #### adım 5: uzantılardan vorp streamer uzantısını sabitleyin (https://prnt.sc/JIq-XmnuWcXY)
-#### adım 6: uzantıya her tıkladığnızda sayfa yenilenir, bol metalar :) (https://prnt.sc/uBftAeyD4bHd)
+#### adım 6: uzantıya her tıkladığnızda liste yenilenir, bol metalar :) (https://prnt.sc/uBftAeyD4bHd)
 #### NOT: yayıncılar twitch ile enterge gösterildiği için ne kadar fazla yayıncı aktifse ona göre biraz geç gelebilir
